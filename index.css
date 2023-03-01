@@ -1,0 +1,45 @@
+h2{
+    font-family:Cambria, Cochin, Georgia, Times, Times New Roman, serif ;
+    text-align:center;
+    color:whitesmoke;
+    background-color:grey;
+    
+}
+body{
+    
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    margin:0;
+    text-align:center;
+   
+    background-image:url("Mathematics-Wallpaper.jpg");
+    background-size:cover;
+}
+
+span{
+    
+    border-bottom:2px solid red;
+    padding:10px;
+    background-color:white;
+    
+    
+}
+button{
+    
+border-radius: 40px;
+border:0;
+font-size:1.6rem;
+font-weight: 600;
+margin:1rem 0;
+padding:2rem rem;
+white-space:nowrap;
+}
+button{
+    
+    background:blue;
+    color:white;  
+}
+button:hover{
+    
+    background:rgb(8,123,238);
+      
+}

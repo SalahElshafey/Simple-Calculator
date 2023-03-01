@@ -27,7 +27,7 @@ it takes 3 numbers and makes the operation
 ![Interface](https://github.com/SalahElshafey/Simple-Calculator/blob/main/SS/5.png?raw=true)
 
 
-#Output
+# Output
 
 ![Interface](https://github.com/SalahElshafey/Simple-Calculator/blob/main/SS/6.png?raw=true)
 

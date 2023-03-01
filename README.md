@@ -43,6 +43,9 @@ it takes 3 numbers and makes the operation
 # Multiply
 ![Interface](https://github.com/SalahElshafey/Simple-Calculator/blob/main/SS/10.png?raw=true)
 
+# help button
+![Interface](https://github.com/SalahElshafey/Simple-Calculator/blob/main/SS/10.png?raw=true)
+
 
 
 
